@@ -1,0 +1,23 @@
+#page-login {
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(329.54deg, #15B6D6 0%, #15D6D6 100%);
+
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+#page-login h1 {
+
+}
+
+#page-login aside {
+    width: 600px;
+    background: #ffffff;
+    padding: 80px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}   
