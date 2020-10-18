@@ -1,5 +1,5 @@
 # Happy-2.0
-Projeto criado com o intuito de ajudar crianças ao redor do mundo ajudando a localizar orfanatos durante a terceira edição da Next Level Week 3ª edição da Rocketseat.
+Projeto criado durante a terceira edição da Next Level Week 3ª edição da Rocketseat com o intuito de ajudar crianças ao redor do mundo ajudando a localizar orfanatos.
 
 <h3>Adicionadas as seguintes funcionalidades no back-end como desafio:</h3>
 
